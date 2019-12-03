@@ -1,0 +1,14 @@
+.container {
+  margin-top: 20px;
+  padding: 5px;
+}
+
+h2 {
+  font-style: italic;
+  text-shadow: 2px #ff0000;
+  color: blue;
+}
+
+#over-18, #under-18 {
+  display: none;
+}
